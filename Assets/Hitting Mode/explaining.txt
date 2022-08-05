@@ -1,0 +1,1 @@
+I am trying to make a hitting mod that you hit falling objects and grab points. but seems like unity's physic system is not comfortable enough for it.
